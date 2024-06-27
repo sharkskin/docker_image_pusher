@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 tvbox
-https://registry.hub.docker.com/r/haroldli/xiaoya-tvbox:latest
+https://registry.hub.docker.com/r/haroldli/xiaoya-tvbox
+haroldli/xiaoya-tvbox:latest
