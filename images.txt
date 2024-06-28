@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox:latest
+haroldli/xiaoya-tvbox
